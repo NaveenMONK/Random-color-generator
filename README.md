@@ -1,2 +1,3 @@
 # 100days_of_Javascript_Template
-Ready to Rage , ......... 
+Day 2 30th November 2021
+# Random color generator : https://naveenmonk.github.io/Random-color-generator/
